@@ -10,5 +10,3 @@
 >"O que fazemos em vida, ecoa na eternidade."
 
 ##
-
-![snake gif](https://github.com/renanholler/renanholler/blob/output/github-contribution-grid-snake.gif)
