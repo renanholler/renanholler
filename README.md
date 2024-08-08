@@ -11,4 +11,4 @@
 
 ##
 
-![Snake animation](https://github.com/renanholler/renanholler/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/renanholler/renanholler/blob/output/github-contribution-grid-snake.gif)
