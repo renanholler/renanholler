@@ -10,3 +10,5 @@
 >"O que fazemos em vida, ecoa na eternidade."
 
 ##
+
+![Snake animation](https://github.com/renanholler/renanholler/blob/output/github-contribution-grid-snake.svg)
