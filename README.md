@@ -2,7 +2,7 @@
 
 ###
 
-<p>My name is Renan and I'm a Software Engineer with 6 years of experience in system analysis and development .</p>
+<p>My name is Renan and I'm a Software Engineer with 6 years of experience in system analysis and development.</p>
 
 ###
 
