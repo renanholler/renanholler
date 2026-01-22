@@ -2,7 +2,11 @@
 
 ###
 
-<p>My name is Renan and I'm a Software Engineer with 6 years of experience in system analysis and development.</p>
+<p>Software Engineer with 7 years of experience in system analysis and development, working across backend and frontend with technologies like Node.js, TypeScript, SQL, Firebase, Docker, React, RxJS, WebSocket and others. I specialize in full-stack JavaScript/TypeScript development, applying design patterns, clean architecture, and agile practices to build scalable and maintainable systems.
+
+I’m driven by problem-solving, process optimization, and code quality. I enjoy collaborating with teams to define responsibilities, ensure best practices, and deliver efficient and reliable software solutions.
+
+Always looking for new challenges where I can grow, contribute technically, and help drive meaningful results.</p>
 
 ###
 
